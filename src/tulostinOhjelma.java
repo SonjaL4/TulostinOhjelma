@@ -2,7 +2,8 @@
 public class tulostinOhjelma {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hei olen Tulostin-ohjelma");
+		System.out.println("Ohjelman tekijä:");
 
 	}
 
