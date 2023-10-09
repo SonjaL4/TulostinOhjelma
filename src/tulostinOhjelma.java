@@ -3,12 +3,12 @@ public class tulostinOhjelma {
 
 	public static void main(String[] args) {
 		String muuttuja= "Sonja";
-		int luku1= 4 ;
-		int luku2 = 5; 
-		int tulo =luku1*luku2;
-		int erotus = luku1 - luku2 ;
-		int summa = luku1 + luku2;
-		int jako = luku1 / luku2;
+		double luku1= 4 ;
+		double luku2 = 5; 
+		double tulo =luku1*luku2;
+		double erotus = luku1 - luku2 ;
+		double summa = luku1 + luku2;
+		double jako = luku1 / luku2;
 		
 		System.out.println("Hei olen Tulostin-ohjelma");
 		System.out.print("Ohjelman tekijä:");
